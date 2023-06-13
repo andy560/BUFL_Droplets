@@ -1,2 +1,2 @@
 # BUFL_Droplets
-Repository includes original scripts used to analyze droplet data in MATLAB
+Repository includes scripts used to analyze droplet data in MATLAB. See code comments for explanation.
